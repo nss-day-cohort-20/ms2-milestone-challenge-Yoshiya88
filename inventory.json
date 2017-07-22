@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Lotus",
+      "model": "Espirit",
+      "year": "1976",
+      "price": "650k",
+      "description": "The S1 Esprit can be distinguished from later Esprits by a shovel style front air dam, Fiat X1/9 tail lights, lack of body side ducting, and Wolfrace alloy wheels. Inside the car, the most obvious indication of an S1 Esprit is a one piece instrument cluster with green faced Veglia gauges."
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Countach",
+      "year": "1974",
+      "price": "953k",
+      "description": "The Countach's styling and visual impression made it an icon of great design to almost everyone except automotive engineers. The superior performance characteristics of later Lamborghini models (such as the Diablo, or the Murciélago) appealed to performance car drivers and engineers, but they never had the originality or outrageousness that gave the Countach its distinction."
+    }
+  ]
+}
